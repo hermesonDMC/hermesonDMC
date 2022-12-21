@@ -13,17 +13,20 @@
 -->
 <div align="center">
   <a href="https://linktr.ee/hermeson_dmc">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hermesonDMC&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesonDMC&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<div style="display: inline_block"><br>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hermesonDMC&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Minhas+Estatísticas"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesonDMC&layout=compact&langs_count=7&theme=radical&custom_title=Linhaguagens+Mais+Usadas"/>
+  </a>
+  <div style="display: inline_block">
   <img align="center" alt="Hermeson-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">    
   <img align="center" alt="Hermeson-Js" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_blade.svg">    
   <img align="center" alt="Hermeson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hermeson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hermeson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif">
 </div>
+</div>
+<div style="display: inline_block">  
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif">
+</div> 
   
 #
   
