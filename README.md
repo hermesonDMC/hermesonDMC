@@ -16,7 +16,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hermesonDMC&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Minhas+Estatísticas"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesonDMC&layout=compact&langs_count=7&theme=radical&custom_title=Linhaguagens+Mais+Usadas"/>
   </a>
-  <div style="display: inline_block">
+  <div>
   <img align="center" alt="Hermeson-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">    
   <img align="center" alt="Hermeson-Js" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_blade.svg">    
   <img align="center" alt="Hermeson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,7 +30,7 @@
   
 #
   
-<div> 
+<div>
   <a href="https://instagram.com/hermeson_dmc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hermeson-silva-a07010140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://linktr.ee/hermeson_dmc" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
